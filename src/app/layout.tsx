@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   description: "Marathon registration form ",
 };
 
+
 const inter = Inter({ subsets: ["latin"] });
 
 export default function RootLayout({

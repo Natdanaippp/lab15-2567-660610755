@@ -24,7 +24,6 @@ import {
 
 import { useForm, zodResolver } from "@mantine/form";
 import { z } from "zod";
-
 const schema = z
   .object({
     firstName: z
